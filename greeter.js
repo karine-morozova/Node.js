@@ -4,7 +4,7 @@ const goodbyeWord = "Goodbye!";
 const hello = () => {helloWord};
 const goodbye = () => {goodbyeWord};
 
-module.exports {
+module.exports  = {
     hello,
     goodbye
 };
